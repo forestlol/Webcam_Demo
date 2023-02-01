@@ -9,7 +9,8 @@
 
 ## Installation Guide
 ```
-1. Download Webcam_Demo file
+1. Download Webcam_Demo.zip
+2. Unzip the file
 2. Open SenzeGame.exe
 ```
 
