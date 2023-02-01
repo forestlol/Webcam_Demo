@@ -2,6 +2,8 @@
 
 ### ` Disclaimer: There is no MAC support sorry :( `
 
+' Done by: Group 2 '
+
 ## Pre-requisite
 ```
 1. Laptop with webcam
