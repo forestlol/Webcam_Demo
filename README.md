@@ -4,6 +4,8 @@
 
 ### ` Disclaimer: There is no MAC support sorry :( `
 
+Download the project [here](https://github.com/forestlol/Webcam_Demo/raw/main/Webcam%20Demo.zip) if you having trouble downloading the .zip file
+
 ## Pre-requisite
 ```
 1. Laptop with webcam
